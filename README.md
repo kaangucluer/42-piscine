@@ -1,4 +1,11 @@
 # 42-piscine
+<p align="left">
+<a href="https://twitter.com/gucluerkaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gucluerkaan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaangucluer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaangucluer" height="30" width="40" /></a>
+<a href="https://instagram.com/kaan.gucluer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaan.gucluer" height="30" width="40" /></a>
+<a href="https://medium.com/@kaangucluer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaangucluer" height="30" width="40" /></a>
+<a href="https://discord.gg/3QHaaykw4y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3QHaaykw4y" height="30" width="40" /></a>
+</p>
 
 | Subject      |Experince | Status       |
 | -------------|-----     | -------------|
@@ -16,13 +23,5 @@
 | Final Exam   | 375 XP   | 48%          |
 | Rush00       | 150 XP   | 100%         |
 
-# İşinize Yaradıysa `🌟 STAR` Atmayı Unutmayınız..!
+### İşinize Yaradıysa `🌟 STAR` Atmayı Unutmayınız..!
 
-## Bağlantı Kur \ Connect with me:
-<p align="left">
-<a href="https://twitter.com/gucluerkaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gucluerkaan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaangucluer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaangucluer" height="30" width="40" /></a>
-<a href="https://instagram.com/kaan.gucluer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaan.gucluer" height="30" width="40" /></a>
-<a href="https://medium.com/@kaangucluer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaangucluer" height="30" width="40" /></a>
-<a href="https://discord.gg/3QHaaykw4y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3QHaaykw4y" height="30" width="40" /></a>
-</p>
