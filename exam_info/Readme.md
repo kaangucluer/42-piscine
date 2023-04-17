@@ -96,4 +96,4 @@ Open new terminal
 
 3. git push
 
-4. After the git push, type `grademe`
+4. After the git push, type `grademe` 
