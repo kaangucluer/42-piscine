@@ -1,5 +1,5 @@
 ##  GIT SSH Anahtarınızı Ayarlama -- Setting Up Your GIT SSH Key
-```Tr```
+```TR```
 
 Projeleriniz için SSH Anahtarınızı nasıl kurarsınız:
 
@@ -15,7 +15,7 @@ Adım 7 - 42 Intra Hesabınıza kopyalayın
 - Genel Anahtarınızı Yapıştırın
 - Gönder'e basın
 
-````Eng```
+```ENG```
 
 How to set up your SSH Key for your Projects:
 
