@@ -1,4 +1,4 @@
-# Vim Bilgilendirme (Vim İnformation)
+# Vim Bilgilendirme ~ Vim İnformation
 
 ```TR```
 
