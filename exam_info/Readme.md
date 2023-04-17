@@ -17,3 +17,83 @@ only_z	          | ulstr             	|	print_bits	            	| pgcd          
 ---	          |                     	| swap_bits      | rstr_capitalizer  | ft_itoa_base
 ---           |                     	| union         | str_capitalizer   | moment
 ---	          |                     	| wdmatch            | tab_mult
+
+```TR```
+
+#  Sınava Nasıl Giriş Yapılır?
+
+    login -> exam
+    password -> exam
+    
+Terminale examshell yazınız.
+   
+   login -> 42 intra kullanıcı adınız (örn. kgucluer)
+   şifre -> şifreniz
+
+Examshell'de yalnızca aşağıdaki 3 komutunuz vardır:
+
+- status - zamanı ve diğer şeyleri kontrol edin
+
+- grademe - push egzersizini kontrol etme (moulinet)
+
+- finish - sınavı bitirme 
+
+4 Terminal ile çalışmak size hız kazandırabilir.
+
+- examshell - sınavımızın ana terminalidir.
+
+- Subjects - soruların oldugu klasördür.
+
+- Rendu - projeleri yazacagımız klasördür.
+
+- Traces - hatalarımızı yazan klasördür.
+
+Bu 4 terminalin açık olması sürekli dosya dizinleri değiştirmemenizi ve sizin hızlı olmanızı sağlar.
+
+Projeniz Hazır olduğunda renduya gidin (.\a.out klasörünü sildiğinizden emin olun)
+
+1. git add .
+
+2. git commit -m "Mesajınız(proje ismi)"
+
+3. git push
+
+4. examshell terminaline `grademe` yazın.
+
+
+```ENG```
+
+# How To Login Into The Exam
+
+    login -> exam
+    password -> exam
+
+Type examshell in terminal
+
+    login -> your 42 intra username (eg. prossi)
+    pasword -> your password
+
+Allow photo check
+
+In the  examshell, you have only the following 3 commands:
+
+- status - check the time and other things
+
+- grademe - checking pushed exercise (moulinet)
+
+- finish - closing examshell and finish exam
+
+Open new terminal
+
+    You can find your exam subject in the directory subject
+    Then you can see directory Rendu. It is your repository.
+    You must create the directory named by the project, create .c and/or .h and start working.
+    When you are ready go in Rendu and push the directory by doing the following:
+
+1. git add .
+
+2. git commit -m "done"
+
+3. git push
+
+4. After the git push, type `grademe`
