@@ -24,4 +24,5 @@
 | Rush00       | 150 XP   | 100%         |
 
 ### İşinize Yaradıysa `🌟 STAR` Atmayı Unutmayınız..!
+### If it worked for you  Don't forget to throw a `🌟 STAR`..!
 
