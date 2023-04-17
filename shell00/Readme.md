@@ -1,7 +1,7 @@
 # Shell  Komutları - Shell Commands
 ```TR```
 
-Bunlar, iTerm'de C Projeleriniz için kullanacağınız en yaygın Kabuk komutlarıdır.
+Bunlar, iTerm'de C Projeleriniz için kullanacağınız en yaygın Shell komutlarıdır.
 
 -  ```cd``` - kullanıcı klasörünüze geri döner 
 -  ```cd ..``` - bir klasör geri gider
