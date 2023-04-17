@@ -49,4 +49,4 @@ These are the most common Shell commands in iTerm that you would be using for yo
 
 To see what you have previously typed in the iTerm, click on the up key 🔼 on your keyboard ⌨️ </br>
 or
-you can also type in Shell ```history```.
+you can also type in Shell ```history```. 
