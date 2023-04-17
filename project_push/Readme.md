@@ -9,7 +9,7 @@ Git deposuna klasörlerinizi eklemek ve pushlamak için aşağıdaki adımları 
  Klasörleri uzak sunucuya pushlamak için `git push origin master` komutunu çalıştırın. "master" yerine, hangi dalı pushlamak istediğinize bağlı olarak farklı bir dal adı kullanabilirsiniz.
 Bu adımları takip ederek, klasörlerinizi git deposuna ekleyebilir ve uzak sunucuya pushlayabilirsiniz.
 
-!!! Projelerinizi Push lamadan önce `Norminette` kurallarına ve main yazımına dikkat ediniz ve Header Eklemeyi Unutmayınız... <42-Header Repo>
+!!! Projelerinizi Push lamadan önce `Norminette` kurallarına ve main yazımına dikkat ediniz ve Header Eklemeyi Unutmayınız...  <42-Header Repo>
 
 ## ```ENG``` How to Push Project?
 
