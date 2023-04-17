@@ -16,6 +16,7 @@
 | Final Exam   | 375 XP   | 48%          |
 | Rush00       | 150 XP   | 100%         |
 
+# İşinize Yaradıysa `🌟 STAR` Atmayı Unutmayınız..!
 
 ## Bağlantı Kur \ Connect with me:
 <p align="left">
