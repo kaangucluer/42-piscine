@@ -9,7 +9,7 @@ Bunlar, iTerm'de C Projeleriniz için kullanacağınız en yaygın Kabuk komutla
 -  ```ls -l``` - dosyaların listesini ve oluşturulma tarihini/saatini ve içinde kaç karakter olduğunu gösterir
 -  ```ls -la``` - gizli dosyalarınız da dahil olmak üzere içinde bulunduğunuz klasör ve dosyaların listesini gösterir
 -  ```pwd``` - bulunduğunuz klasörün geçerli yolunu yazdırır (örnek - /Users/prossi/Desktop)
--  ``cat``` - bir dosyada ne olduğunu iTerm'e görüntüler
+-  ```cat``` - bir dosyada ne olduğunu iTerm'e görüntüler
 -  ```mkdir``` - bir klasör oluşturur
 -  ```rmdir``` - bir klasörü kaldırır
 -  ```touch 'file name'''' - bir dosya oluşturur
