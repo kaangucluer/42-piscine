@@ -57,4 +57,4 @@ Vim shortcuts that are very handy:
 - ```w```			     - save file
 - ```q```			     - quit file
 - ```:wq```			   - save and quit
-- ```:q!```			   - quit without change
+- ```:q!```			   - quit without change 
