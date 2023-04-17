@@ -1,6 +1,6 @@
-# Vim Bilgilendirme ~ Vim İnformation
+# ```TR``` Vim Bilgilendirme
 
-```TR```
+
 
 Vim'deyken `ESC` tuşuna basın , `:` tuşuna basın , komutu girin, `Enter` tuşuna basın
 
@@ -30,7 +30,7 @@ Vim'deyken `ESC` tuşuna basın , `:` tuşuna basın , komutu girin, `Enter` tu�
 -  ```:q!``` 			   - değişiklik yapmadan çık,
 
 
-```ENG```
+## ```ENG``` Vim İnformation
 
 While in Vim, press `ESC`, press `:`, enter the command, hit `Enter`
 
