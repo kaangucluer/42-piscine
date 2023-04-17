@@ -18,9 +18,9 @@ only_z	          | ulstr             	|	print_bits	            	| pgcd          
 ---           |                     	| union         | str_capitalizer   | moment
 ---	          |                     	| wdmatch            | tab_mult
 
-```TR```
 
-#  Sınava Nasıl Giriş Yapılır?
+
+#  ```TR``` Sınava Nasıl Giriş Yapılır?
 
     login -> exam
     password -> exam
