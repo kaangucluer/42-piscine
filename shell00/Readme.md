@@ -3,7 +3,7 @@
 
 Bunlar, iTerm'de C Projeleriniz için kullanacağınız en yaygın Kabuk komutlarıdır.
 
--  ```cd``` - kullanıcı klasörünüze geri döner
+-  ```cd``` - kullanıcı klasörünüze geri döner 
 -  ```cd ..``` - bir klasör geri gider
 -  ```ls``` - içinde bulunduğunuz herhangi bir dizindeki klasörlerin/dosyaların listesi
 -  ```ls -l``` - dosyaların listesini ve oluşturulma tarihini/saatini ve içinde kaç karakter olduğunu gösterir
