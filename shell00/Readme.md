@@ -12,7 +12,7 @@ Bunlar, iTerm'de C Projeleriniz için kullanacağınız en yaygın Kabuk komutla
 -  ```cat``` - bir dosyada ne olduğunu iTerm'e görüntüler
 -  ```mkdir``` - bir klasör oluşturur
 -  ```rmdir``` - bir klasörü kaldırır
--  ```touch 'file name'''' - bir dosya oluşturur
+-  ```touch 'file name'``` - bir dosya oluşturur
 -  ```rm``` - bir dosyayı kaldırır
 -  ```rm -f``` - ``rm``` çalışmıyorsa , zorla bir dosyayı kaldırır
 -  ```mv``` - bir dosyayı başka bir klasöre taşır ve ayrıca bir dosyayı yeniden adlandırabilirsiniz.
