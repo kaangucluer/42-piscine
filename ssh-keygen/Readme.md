@@ -12,7 +12,7 @@ Adım 7 - 42 Intra Hesabınıza kopyalayın
 - Profili Düzenle'ye tıklayın
 - Ardından Genel Anahtar'ı tıklayın
 - Genel Anahtarınızı Yapıştırın
-- Gönder'e basın
+- Gönder'e basın 
 
 ## ```ENG``` Setting Up Your GIT SSH Key
 
