@@ -1,5 +1,5 @@
 ##  GIT SSH Anahtarınızı Ayarlama -- Setting Up Your GIT SSH Key
-````Tr```
+```Tr```
 
 Projeleriniz için SSH Anahtarınızı nasıl kurarsınız:
 
