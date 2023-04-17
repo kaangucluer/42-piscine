@@ -17,7 +17,7 @@ Vim'deyken `ESC` tuşuna basın , `:` tuşuna basın , komutu girin, `Enter` tu�
 ``command`` ve ``+`` tuşlarını basılı tutun
 
 
-Çok kullanışlı olan Vim kısayolları:
+Çok kullanışlı olan Vim kısayolları: 
 
 -  ```CTRL+HOME``` 	  - sizi dosyanın başına gönderir
 -  ```CTRL+END``` 	 - dosyanın sonuna gönder
